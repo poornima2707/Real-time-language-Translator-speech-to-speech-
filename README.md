@@ -28,7 +28,7 @@ This project implements a **real-time speech-to-speech translation system** usin
 2. **Text Translation** (via `googletrans`)
 3. **Text-to-Speech** (via `gTTS`)
 4. **Real-time Output Playback** (via `pygame`)
-<img src="https://github.com/user-attachments/assets/aeb01363-7398-4e64-9a64-a154d7272dd8" width="600"/>
+![WhatsApp Image 2025-05-24 at 13 52 30_b21e91b0](https://github.com/user-attachments/assets/c289c9b8-6d13-4197-8fe0-d615e1327494)
 
 ## 📊 Accuracy Evaluation
 
