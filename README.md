@@ -85,3 +85,6 @@ This project implements a **real-time speech-to-speech translation system** usin
 - Stronger encryption for data privacy
 
 
+https://github.com/user-attachments/assets/5c7a6e0c-0d35-47ec-8fd3-80e67c1b6003
+
+
