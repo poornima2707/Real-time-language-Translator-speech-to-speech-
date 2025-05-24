@@ -1,5 +1,5 @@
 
-# README: Real-Time Speech-to-Speech Translation System
+# Real-Time Speech-to-Speech Translation System
 
 ## 📌 Overview
 
@@ -20,12 +20,16 @@ This project implements a **real-time speech-to-speech translation system** usin
 - **Microphone** – Captures user speech
 - **Speaker** – Outputs translated speech
 - **Power Supply** – Supports mobility and reliability
+![WhatsApp Image 2025-05-24 at 13 52 31_ea03218d](https://github.com/user-attachments/assets/9dcefbe2-3cda-4849-bd31-6d731c30af30)
+![WhatsApp Image 2025-05-24 at 13 52 31_e240b2a0](https://github.com/user-attachments/assets/eb4df2d8-761c-4cb8-9847-f382383d9531)
+![WhatsApp Image 2025-05-24 at 13 52 31_23306a00](https://github.com/user-attachments/assets/3d9c5afe-ed82-4ad4-ad9e-d9af87e11b50)
 
 ### 🧠 Software Workflow
 1. **Speech Recognition** (via `speech_recognition`)
 2. **Text Translation** (via `googletrans`)
 3. **Text-to-Speech** (via `gTTS`)
 4. **Real-time Output Playback** (via `pygame`)
+![Uploading WhatsApp Image 2025-05-24 at 13.52.30_99340e9d.jpg…]()
 
 ## 📊 Accuracy Evaluation
 
@@ -44,6 +48,9 @@ This project implements a **real-time speech-to-speech translation system** usin
 | Translation Latency       | Low (real-time capable)  |
 | Practical Use Cases       | Travel, Education, Work  |
 | Speech + Translation BLEU | Used for evaluation      |
+![WhatsApp Image 2025-05-24 at 13 52 30_d3f9468b](https://github.com/user-attachments/assets/89d42e23-5fa2-4faf-9b02-2cf15e9cc5d3)
+![WhatsApp Image 2025-05-24 at 13 52 30_8cb3be01](https://github.com/user-attachments/assets/94d6d7cf-826e-4ff7-8690-700b32a60957)
+![WhatsApp Image 2025-05-24 at 13 52 30_9d50f30d](https://github.com/user-attachments/assets/8863bd67-ba4f-4775-b049-4e132e147180)
 
 ## 🚀 Setup Instructions
 
@@ -77,9 +84,4 @@ This project implements a **real-time speech-to-speech translation system** usin
 - Advanced noise handling and better contextual understanding
 - Stronger encryption for data privacy
 
-## 📚 References
 
-- Vaswani et al., *Attention is All You Need* (2017)
-- Johnson et al., *Google's Multilingual NMT System* (2019)
-- Bahdanau et al., *NMT with Attention* (2014)
-- McMahan et al., *Differential Privacy in Language Models* (2017)
