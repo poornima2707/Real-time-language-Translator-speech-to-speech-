@@ -52,6 +52,10 @@ This project implements a **real-time speech-to-speech translation system** usin
 
 <img src="https://github.com/user-attachments/assets/89d42e23-5fa2-4faf-9b02-2cf15e9cc5d3" width="300"/> <img src="https://github.com/user-attachments/assets/94d6d7cf-826e-4ff7-8690-700b32a60957" width="300"/> <img src="https://github.com/user-attachments/assets/8863bd67-ba4f-4775-b049-4e132e147180" width="300"/>
 
+## 📈 Visualizations
+- **Accuracy Factor Plot**: Shows change in accuracy over multiple translations
+- **Recognition vs Translation Time Correlation**: Identifies performance trends
+
 ## 🚀 Setup Instructions
 
 1. Install Python dependencies:
