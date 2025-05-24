@@ -30,8 +30,8 @@ This project implements a **real-time speech-to-speech translation system** usin
 2. **Text Translation** (via `googletrans`)
 3. **Text-to-Speech** (via `gTTS`)
 4. **Real-time Output Playback** (via `pygame`)
-   
-![Uploading WhatsApp Image 2025-05-24 at 13.52.30_99340e9d.jpg…]()
+
+![WhatsApp Image 2025-05-24 at 13 52 30_2b204e91](https://github.com/user-attachments/assets/aeb01363-7398-4e64-9a64-a154d7272dd8)
 
 ## 📊 Accuracy Evaluation
 
